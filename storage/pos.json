@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "sku": "PMP-A",
+      "name": "Pump A",
+      "price": 1500,
+      "stock": 8
+    },
+    {
+      "id": 2,
+      "sku": "VLV-B",
+      "name": "Valve B",
+      "price": 320,
+      "stock": 25
+    }
+  ],
+  "invoices": []
+}
